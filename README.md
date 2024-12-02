@@ -190,3 +190,19 @@ Tech Stack
 
 1. Additional tests can be included for the Frontend using Jest.
 2. Backend API can be documented further with OpenAPI and Swagger format.
+
+#### Images 
+
+<img width="758" alt="Screenshot 2024-12-01 at 9 40 09 PM" src="https://github.com/user-attachments/assets/b20e0ca4-27fd-4d43-93b7-111f899902b9">
+<img width="724" alt="Screenshot 2024-12-01 at 9 40 21 PM" src="https://github.com/user-attachments/assets/3d467528-7ad6-4c7e-abba-7b8024ba3674">
+<img width="731" alt="Screenshot 2024-12-01 at 9 40 31 PM" src="https://github.com/user-attachments/assets/1e91885f-8a28-44cc-9476-1fa2f3ce2dc2">
+<img width="604" alt="Screenshot 2024-12-01 at 9 40 56 PM" src="https://github.com/user-attachments/assets/86922e0c-20d1-4f1f-acda-20f0922e5dda">
+<img width="656" alt="Screenshot 2024-12-01 at 9 41 05 PM" src="https://github.com/user-attachments/assets/bd995f39-8798-4c0e-904a-0a0bb7905ef4">
+<img width="634" alt="Screenshot 2024-12-01 at 9 41 24 PM" src="https://github.com/user-attachments/assets/79a998f9-92ff-4e15-aab1-f179430824b3">
+<img width="628" alt="Screenshot 2024-12-01 at 9 41 43 PM" src="https://github.com/user-attachments/assets/e11d7e1f-c629-4354-ad6d-1d3ae550849a">
+<img width="661" alt="Screenshot 2024-12-01 at 9 42 41 PM" src="https://github.com/user-attachments/assets/f980be07-00ad-418c-8854-2d980f185b62">
+<img width="692" alt="Screenshot 2024-12-01 at 9 43 00 PM" src="https://github.com/user-attachments/assets/28b73279-eee9-4d08-b6ef-e8d0da3ae252">
+<img width="694" alt="Screenshot 2024-12-01 at 9 43 08 PM" src="https://github.com/user-attachments/assets/8518b5cd-5a0b-4042-a39f-116dea095381">
+
+
+

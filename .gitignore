@@ -2,3 +2,7 @@
 venv/
 # Ignore Node.js dependencies
 node_modules/
+# Ignore Python bytecode
+*.pyc
+# Ignore logs
+*.log

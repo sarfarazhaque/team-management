@@ -5,8 +5,11 @@ This project is a full-stack Team Management Application built with Django for t
 
 ## Backend Documentation
 Tech Stack
+
     Django: Web framework for backend.
+
     Django REST Framework (DRF): For building RESTful APIs.
+
     SQLite: Default database for development.
 
 ### Features
@@ -32,7 +35,6 @@ Tech Stack
         Request Body:
 
         {
-
             "first_name": "Sarfaraz",
 
             "last_name": "Haque",
@@ -55,7 +57,6 @@ Tech Stack
         Request Body (All fields are required):
 
         {
-
             "first_name": "Sarfaraz",
 
             "last_name": "Haque",
@@ -65,7 +66,6 @@ Tech Stack
             "phone_number": "123-456-7890",
 
             "role": "Admin"
-
         }
 
     - DELETE /api/team-members/{id}/
@@ -76,10 +76,12 @@ Tech Stack
     - Clone the Repository:
 
         git clone https://github.com/your-repo/team-management.git
+
         cd team-management/backend
     - Create a Virtual Environment:
 
         python -m venv venv
+
         source venv/bin/activate
     - Install Dependencies:    
 
@@ -102,55 +104,86 @@ Tech Stack
 
 ### Frontend Documentation
 Tech Stack
+
     React: Frontend library for building the user interface.
+
     Tailwind CSS: For styling.
+
     Axios: For making API requests.
 
 
-Features
-    1. Pages
-        a. List Page:
-            Displays a list of all team members.
-            Search functionality to filter by name, email, or role.
-            Role-based filtering (e.g., Admin, Regular).
-            Pagination for large datasets.
-            Button (+) to navigate to the Add Page.
-        b. Add Page:
-            Allows adding a new team member.
-            Validates email and phone number formats.
-        c. Edit Page:
-            Allows editing a team member’s details.
-            Deletes a team member.
-            Validates email and phone number formats.
-    2. UI Enhancements added
-        Search and sort functionalities on the List Page.
-        Auto-formatting for phone numbers to 123-456-7890.
-        Custom modal for delete confirmation on the Edit Page.
-        Improved UX with Tailwind CSS for better accessibility:
-            Keyboard navigation.
-            ARIA attributes for screen readers.
+### Features
+1. Pages
+    - List Page:
 
-Setup
-    1. Clone Repository
+        Displays a list of all team members.
+
+        Search functionality to filter by name, email, or role.
+
+        Role-based filtering (e.g., Admin, Regular).
+
+        Pagination for large datasets.
+
+        Button (+) to navigate to the Add Page.
+
+    - Add Page:
+
+        Allows adding a new team member.
+
+        Validates email and phone number formats.
+
+    - Edit Page:
+
+        Allows editing a team member’s details.
+
+        Deletes a team member.
+
+        Validates email and phone number formats.
+
+2. UI Enhancements added
+
+    Search and sort functionalities on the List Page.
+
+    Auto-formatting for phone numbers to 123-456-7890.
+
+    Custom modal for delete confirmation on the Edit Page.
+
+    Improved UX with Tailwind CSS for better accessibility:
+        Keyboard navigation.
+        ARIA attributes for screen readers.
+
+3. Setup
+    - Clone Repository
+
         git clone https://github.com/your-repo/team-management.git
+
         cd team-management/frontend
-    2. Install Dependencies
+
+    - Install Dependencies
+
         npm install
-    3. Run the Development Server
+
+    - Run the Development Server
         npm start
 
-4. Usage
-    Running the Project
-    -> Start the backend server:
+### Usage Running the Project
+
+    - Start the backend server:
+
         python manage.py runserver
-    -> Start the frontend server:
+
+    - Start the frontend server:
+
         npm start
-    -> Open the app in your browser:
+
+    - Open the app in your browser:
+
         Frontend: http://localhost:3000
+
         Backend API: http://localhost:8000/api/team-members/
 
 
-Further Improvements 
+#### Further Improvements 
 
 1. Additional tests can be included for the Frontend using Jest.
 2. Backend API can be documented further with OpenAPI and Swagger format.

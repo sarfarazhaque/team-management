@@ -4,7 +4,7 @@ This project is a full-stack Team Management Application built with Django for t
 
 Time taken - 
 
-    4 hours
+    4 hours with documentation
 
 
 ## Backend Documentation

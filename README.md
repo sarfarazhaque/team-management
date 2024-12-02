@@ -10,9 +10,9 @@ Tech Stack
     SQLite: Default database for development.
 
 ##Features
-# 1. Models
+1. Models
 
-# TeamMember: Represents a team member with the following attributes:
+TeamMember: Represents a team member with the following attributes:
     first_name (String): First name of the member.
     last_name (String): Last name of the member.
     email (String): Email of the member.

@@ -2,6 +2,10 @@
 
 This project is a full-stack Team Management Application built with Django for the backend and React for the frontend. It allows users to manage team members, providing functionalities to view, add, edit, and delete members. Documenation divided into Backend and Frontend 
 
+Time taken - 
+
+    4-5 hours
+
 
 ## Backend Documentation
 Tech Stack

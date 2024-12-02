@@ -9,10 +9,10 @@ Tech Stack
     Django REST Framework (DRF): For building RESTful APIs.
     SQLite: Default database for development.
 
-Features
-1. Models
+##Features
+# 1. Models
 
-TeamMember: Represents a team member with the following attributes:
+# TeamMember: Represents a team member with the following attributes:
     first_name (String): First name of the member.
     last_name (String): Last name of the member.
     email (String): Email of the member.
@@ -27,9 +27,9 @@ TeamMember: Represents a team member with the following attributes:
     Create a new team member.
     Request Body:
         {
-            "first_name": "John",
-            "last_name": "Doe",
-            "email": "john.doe@example.com",
+            "first_name": "Sarfaraz",
+            "last_name": "Haque",
+            "email": "sarfaraz.haque@example.com",
             "phone_number": "123-456-7890",
             "role": "Admin"
         }
@@ -40,9 +40,9 @@ TeamMember: Represents a team member with the following attributes:
         Update details of a specific team member by id.
         Request Body (All fields are required):
         {
-            "first_name": "John",
-            "last_name": "Doe",
-            "email": "john.doe@example.com",
+            "first_name": "Sarfaraz",
+            "last_name": "Haque",
+            "email": "sarfaraz.haque@example.com",
             "phone_number": "123-456-7890",
             "role": "Admin"
         }

@@ -6,6 +6,10 @@ Time taken -
 
     4 hours with documentation
 
+## Demo video
+[Recording Team Management.mov.zip](https://github.com/user-attachments/files/17975091/Recording.Team.Management.mov.zip)
+
+
 
 ## Backend Documentation
 Tech Stack

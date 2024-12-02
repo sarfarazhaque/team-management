@@ -35,6 +35,7 @@ Tech Stack
         Request Body:
 
         {
+
             "first_name": "Sarfaraz",
 
             "last_name": "Haque",
@@ -57,6 +58,7 @@ Tech Stack
         Request Body (All fields are required):
 
         {
+
             "first_name": "Sarfaraz",
 
             "last_name": "Haque",
@@ -164,6 +166,7 @@ Tech Stack
         npm install
 
     - Run the Development Server
+    
         npm start
 
 ### Usage Running the Project

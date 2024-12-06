@@ -74,8 +74,17 @@ function AddPage() {
     // Save role preference to local storage
     localStorage.setItem("defaultRole", formData.role);
 
-    await createTeamMember(formData);
-    navigate("/");
+
+    try {
+        await createTeamMember(formData);
+        navigate("/");
+      } catch (error) {
+        if (error.response && error.response.data && error.response.data.email) {
+          setErrors({ email: error.response.data.email[0] }); // Show backend error
+        } else {
+          setErrors({ email: "An error occurred while creating the team member." });
+        }
+    }
   };
 
   return (

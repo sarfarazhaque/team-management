@@ -211,6 +211,6 @@ Tech Stack
 <img width="661" alt="Screenshot 2024-12-01 at 9 42 41 PM" src="https://github.com/user-attachments/assets/f980be07-00ad-418c-8854-2d980f185b62">
 <img width="692" alt="Screenshot 2024-12-01 at 9 43 00 PM" src="https://github.com/user-attachments/assets/28b73279-eee9-4d08-b6ef-e8d0da3ae252">
 <img width="694" alt="Screenshot 2024-12-01 at 9 43 08 PM" src="https://github.com/user-attachments/assets/8518b5cd-5a0b-4042-a39f-116dea095381">
-
+<img width="698" alt="Screenshot 2024-12-06 at 1 55 00 PM" src="https://github.com/user-attachments/assets/c023b036-70d2-40f8-b602-1660e0b9669e">
 
 
